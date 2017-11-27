@@ -1,0 +1,9 @@
+1
+3
+90
+F-F-F-F
+F:FF-F+fF-FF-Ff+F-FF
+f:fff
++:+
+-:-
+0

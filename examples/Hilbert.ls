@@ -1,0 +1,12 @@
+1
+2
+90
+X
+X:+YF-XFX-FY+
+Y:-XF+YFY+FX-
++:+
+-:-
+F:F
+1
+X:+F-F-F+
+Y:-F+F+F-
